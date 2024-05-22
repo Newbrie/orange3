@@ -34,7 +34,7 @@ SELECTION_WIDTH = 5
 MAX_N_VALID_SIZE_ANIMATE = 1000
 
 # maximum number of colors (including Other)
-MAX_COLORS = 11
+MAX_COLORS = 21
 
 
 class LegendItem(PgLegendItem):
